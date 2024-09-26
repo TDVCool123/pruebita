@@ -132,4 +132,4 @@ Recuerda, un buen README es crucial para hacer que tu proyecto sea atractivo y a
 
 ---
 
-⌨️ con ❤️ por [Brayan Diaz C](https://github.com/brayandiazc) 😊
+⌨️ con ❤️ por [Luis Paricollo](https://github.com/TDVCool123) 😊UWU
